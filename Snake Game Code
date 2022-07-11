@@ -1,5 +1,3 @@
-# Snake-Game
-Snake Game
 print("Welcome to Simon's Snake Game!")
 print("Arrows Keys or WASD Keys to Move!")
 import pygame
