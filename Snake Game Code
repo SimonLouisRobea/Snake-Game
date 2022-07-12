@@ -1,3 +1,5 @@
+# Welcome to Space Invaders, here is my code for the game.
+
 print("Welcome to Simon's Snake Game!")
 print("Arrows Keys or WASD Keys to Move!")
 import pygame
